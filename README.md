@@ -132,7 +132,7 @@ IA concede solução para setor responsável de TI de acordo com o sugerido pela
 </pre>
 </pre>
 
-## Requisitos Não-Funcionais
+
 ### 1. UML
 
 * Astah UML
@@ -159,9 +159,3 @@ IA concede solução para setor responsável de TI de acordo com o sugerido pela
 * [Br Modelo](https://www.brmodeloweb.com/lang/pt-br/index.html)
 
 
-## Integrantes do grupo
-
-Nome | Github | Instagram
------------- | ------------- | -----------
-
-Frederico Barreto Godoi Dellú| [Acessar Github](https://github.com/Fredeavatar) | [Acessar Instagram](https://www.instagram.com/fredericodellu_?igsh=MXcwa3d0djQzZzZ5MQ==)
