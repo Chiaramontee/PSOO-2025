@@ -123,9 +123,9 @@ IA concede solução para setor responsável de TI de acordo com o sugerido pela
 
 
 ## Tecnologias Utilizadas
-* [Figma](https://www.figma.com/)
+* <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 * [Astah](https://astah.net/)
-* [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+* <a href="https://www.microsoft.com/en-us/sql-server/"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
 * [Br Modelo](https://www.brmodeloweb.com/lang/pt-br/index.html)
 
 * ## 🎓 Equipe
