@@ -2,7 +2,7 @@
 Gerenciamentos de Chamados
 
 
-Esse trabalho é referente ao Projeto Integrado Multidisciplinar da Faculdade UNIP de São José dos Campos, criado em equipe.
+Esse trabalho é referente ao Projeto Integrado Multidisciplinar do curso de Análise e Desenvolvimento de Sistemas da  UNIP  São José dos Campos, criado em equipe.
 
 <p align="center">
       <img src="img/203549358.jpg" alt="logo da Fatal System" width="400">
