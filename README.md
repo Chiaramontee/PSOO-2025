@@ -17,11 +17,7 @@ Conforme as respostas são tratadas, todo o histórico dos chamados é armazenad
 
 O objetivo principal é otimizar o fluxo de atendimento, reduzir a sobrecarga da equipe de TI e melhorar a eficiência do processo de resolução de chamados dentro da organização.
 
-
-## Backlog do Sistema
-Os requisitos do trabalho estão dividos em requisitos funcionais que descrevem funcionalidades do trabalho, e requisitos não funcionais descrevem requisitos como: tecnologia a ser utilizada, arquitetura, ambiente, etc. 
-
-## Requisitos Funcionais
+## Backlog do Produto
 
 ### 1. Gerenciamento de chamados
 
