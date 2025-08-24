@@ -99,46 +99,21 @@ Adm pode editar usuários já criados<br>
 Adm pode visualizar funcionários cadastrados.
 Adm vai denominar quais permissões os usuários possuem</pre>
 
-### 3. Gerenciamento de Relatórios
+### 3. Gerenciamento de IA
 
-<pre>3.a) Gerar relatórios:
-De acordo com o nível de acesso pode gerar relatórios anuais, mensais e semanais.
-Gerar relatórios baseado em prioridades.
-Gerar relatórios de acordo com o tipo de chamado mais requisitado.<br>
-
-3.b) Buscar relatórios:
-Filtrar os relatórios de acordo com data, prioridade e tipo.<br>
-
-3.c) Visualizar relatórios:
-Admin pode visualizar os relatórios gerados.</pre>
-</pre>
-
-### 4. Gerenciamento de IA
-
-<pre>4.a) Priorizar e categorizar chamados:
+<pre>3.a) Priorizar e categorizar chamados:
 A IA deve classificar automaticamente os chamados em níveis de prioridade (alta, média, baixa) com base no conteúdo e na urgência relatada.
 A IA vai identificar o chamado e agrupar na sua respectiva categoria.
 A IA também deve encaminhar o chamado para o setor responsável com base na análise feita.
 O administrador poderá revisar e alterar a prioridade, se necessário.<br>
   
-4.b) Aplicar solução inteligente:
+3.b) Aplicar solução inteligente:
 IA recebe o chamado.
 IA analisa palavras chaves do chamado.
 IA concede solução para setor responsável de TI de acordo com o sugerido pelas palavras chaves.<br>
 
 </pre>
 </pre>
-
-
-### 1. UML
-
-* Astah UML
-
-### 2. Banco de Dados Relacionais
-
-* SQL Server
-
-
 
 ## Solução Proposta
 * Priorização e Categorização de chamados por IA
@@ -152,5 +127,10 @@ IA concede solução para setor responsável de TI de acordo com o sugerido pela
 * [Astah](https://astah.net/)
 * [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 * [Br Modelo](https://www.brmodeloweb.com/lang/pt-br/index.html)
+
+* ## 🎓 Equipe
+| Nome                          | Papel         | GitHub                                    | LinkedIn                                                      |
+| ----------------------------- | ------------- |------------------------------------------ | ------------------------------------------------------------- |
+| Liedson De Oliveira Silva     | Desenvolvedor |[GitHub](https://github.com/liedson-silva) | [LinkedIn](https://linkedin.com/in/liedson-silva-20b78b29
 
 
