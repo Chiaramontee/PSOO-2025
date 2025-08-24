@@ -23,52 +23,53 @@ O objetivo principal é otimizar o fluxo de atendimento, reduzir a sobrecarga da
 
 | Rank | Prioridade | User Story                                                                                                                                                                                                     | Story Points | Sprint | Requisito do Cliente | Status |
 | :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
-|   1  |    Alta    | O sistema deve permitir que o usuário crie um novo chamado, informando título, descrição, categoria e prioridade.                                                                                              |      14      |    1   |          R01         |    ❌   |
-|   2  |    Alta    | O usuário deve poder revisar os dados preenchidos antes de confirmar o envio do chamado.                                                                                                                       |      47      |    1   |          R02         |    ❌   |
-|   3  |    Alta    | O sistema deve permitir anexar um ou mais arquivos ao chamado antes do envio e também após o chamado ter sido criado (enquanto estiver em aberto)                                                              |      28      |    1   |          R03         |    ❌   |
-|   4  |    Alta    | Antes de enviar o chamado, o sistema realiza uma primeira checagem para garantir que todos os campos obrigatórios estejam preenchidos.                                                                         |      22      |    1   |          R04         |    ❌   |
-|   5  |    Alta    | Se o sistema identificar um campo em branco, o chamado não é enviado e o funcionário é informado para preencher os dados.                                                                                      |      29      |    1   |          R05         |    ❌   |
-|   6  |    Alta    | Caso a dupla checagem seja concluída com sucesso, o funcionário envia o chamado para a equipe de suporte.                                                                                                      |      41      |    1   |          R06         |    ❌   |
-|   7  |    Alta    | Sistema permite anexar mais arquivos em um chamado já existente.                                                                                                                                               |       3      |    2   |          R07         |    ❌   |
-|   8  |    Alta    | O sistema deve permitir que o usuário visualize os chamados criados, de acordo com o seu nível de acesso.                                                                                                      |       5      |    2   |          R08         |    ❌   |
+|   1  |    Alta    | O sistema deve permitir que o usuário crie um novo chamado, informando título, descrição, categoria e prioridade.                                                                                              |            |      |          R01         |    ❌   |
+|   2  |    Alta    | O usuário deve poder revisar os dados preenchidos antes de confirmar o envio do chamado.                                                                                                                       |            |       |          R02         |    ❌   |
+|   3  |    Alta    | O sistema deve permitir anexar um ou mais arquivos ao chamado antes do envio e também após o chamado ter sido criado (enquanto estiver em aberto)                                                              |           |      |          R03         |    ❌   |
+|   4  |    Alta    | Antes de enviar o chamado, o sistema realiza uma primeira checagem para garantir que todos os campos obrigatórios estejam preenchidos.                                                                         |           |       |          R04         |    ❌   |
+|   5  |    Alta    | Se o sistema identificar um campo em branco, o chamado não é enviado e o funcionário é informado para preencher os dados.                                                                                      |           |      |          R05         |    ❌   |
+|   6  |    Alta    | Caso a dupla checagem seja concluída com sucesso, o funcionário envia o chamado para a equipe de suporte.                                                                                                      |            |      |          R06         |    ❌   |
+|   7  |    Alta    | Sistema permite anexar mais arquivos em um chamado já existente.                                                                                                                                               |             |       |          R07         |    ❌   |
+|   8  |    Alta    | O sistema deve permitir que o usuário visualize os chamados criados, de acordo com o seu nível de acesso.                                                                                                      |             |      |          R08         |    ❌   |
 
 
 ### 2. Gerenciamento de Usuário
 
 | Rank | Prioridade | User Story                                                                                                                                                                                                     | Story Points | Sprint | Requisito do Cliente | Status |
 | :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
-|  9  |    Alta    | Como Administrador, eu gostaria de ser o primeiro usuário do sistema, já devidamente pré inserido no banco de dados, para que possa acessar a aplicação.                                                       |      44      |    1   |          R09         |    ❌   |
-|  10  |    Média   | Como Administrador, eu quero cadastrar novos usuários na plataforma, para que somente pessoas autorizadas possam acessá-la.                                                                                    |      17      |    3   |          R10         |    ❌   |
-|  11  |    Média   | Como usuário, eu quero acessar a aplicação através de uma interface de login, para que somente usuários autorizados possam utilizar o sistema.                                                                 |      13      |    3   |          R11         |    ❌   |
-|  12  |    Média   | Como usuário autorizado, eu quero acessar o sistema através de um login, para utilizar a aplicação.                                                                                                            |      23      |    3   |          R12         |    ❌   |
-|  13  |    Média   | Como usuário autenticado, eu quero poder fazer o logout da aplicação de forma segura, para que meus dados não fiquem acessíveis a terceiros.                                                                   |      18      |    3   |          R13         |    ❌   |
-|  14  |    Média   | Como Administrador, quero poder editar os dados dos usuarios, caso os mesmos solicitem.                                                                                                                        |       2      |    2   |          R14         |    ❌   |
-|  15  |    Média   | Como Administrador, eu quero visualizar a lista de usuários cadastrados, para que eu possa gerenciar quem tem acesso ao sistema.                                                                               |      20      |    3   |          R15         |    ❌   |
-|  16  |    Média   | Como Administrador, eu quero redefinir a senha de um usuário, para que eu possa ajudá-lo caso ele não consiga acessar a conta.                                                                                 |      18      |    3   |          R16         |    ❌   |
-|  17  |    Média   | Como Administrador, eu quero excluir usuários do sistema, para que possa revogar o acesso de usuários a aplicação.                                                                                             |      13      |    3   |          R17         |    ❌   |
-|  18  |    Baixa   | Como Administrador, ter a capacidade de denominar niveis de acesso ao sistema de acordo com a função do funcionario.                                                                                           |       2      |    2   |          R18         |    ❌   |
+|  9  |    Alta    | Como Administrador, eu gostaria de ser o primeiro usuário do sistema, já devidamente pré inserido no banco de dados, para que possa acessar a aplicação.                                                       |          |      |          R09         |    ❌   |
+|  10  |    Média   | Como Administrador, eu quero cadastrar novos usuários na plataforma, para que somente pessoas autorizadas possam acessá-la.                                                                                    |           |      |          R10         |    ❌   |
+|  11  |    Média   | Como usuário, eu quero acessar a aplicação através de uma interface de login, para que somente usuários autorizados possam utilizar o sistema.                                                                 |          |     |          R11         |    ❌   |
+|  12  |    Média   | Como usuário autorizado, eu quero acessar o sistema através de um login, para utilizar a aplicação.                                                                                                            |            |      |          R12         |    ❌   |
+|  13  |    Média   | Como usuário autenticado, eu quero poder fazer o logout da aplicação de forma segura, para que meus dados não fiquem acessíveis a terceiros.                                                                   |           |       |          R13         |    ❌   |
+|  14  |    Média   | Como Administrador, quero poder editar os dados dos usuarios, caso os mesmos solicitem.                                                                                                                        |            |      |          R14         |    ❌   |
+|  15  |    Média   | Como Administrador, eu quero visualizar a lista de usuários cadastrados, para que eu possa gerenciar quem tem acesso ao sistema.                                                                               |            |       |          R15         |    ❌   |
+|  16  |    Média   | Como Administrador, eu quero redefinir a senha de um usuário, para que eu possa ajudá-lo caso ele não consiga acessar a conta.                                                                                 |            |       |          R16         |    ❌   |
+|  17  |    Média   | Como Administrador, eu quero excluir usuários do sistema, para que possa revogar o acesso de usuários a aplicação.                                                                                             |           |       |          R17         |    ❌   |
+|  18  |    Baixa   | Como Administrador, ter a capacidade de denominar niveis de acesso ao sistema de acordo com a função do funcionario.                                                                                           |             |       |          R18         |    ❌   |
 
 
 
-### 3. Gerenciamento de Relatórios
 
-| Rank | Prioridade | User Story                                                                                                                                                                                                     | Story Points | Sprint | Requisito do Cliente | Status |
-| :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
-|  19  |    Baixa   | Como usuário, De acordo com o nível de acesso, gerar relatórios anuais, mensais e semanais.                                                                                                                    |       2      |    2   |          R19         |    ❌   |
-|  20  |    Baixa   | Como usuário, Poder gerar relatórios baseado em prioridades.                                                                                                                                                   |       1      |    2   |          R20         |    ❌   |
-|  21  |    Baixa   | Como usuário, Gerar relatórios de acordo com o tipo de chamado mais requisitado.                                                                                                                               |      16      |    3   |          R21         |    ❌   |
-|  22  |    Baixa   | Como usuario, poder Filtrar os relatórios de acordo com data, prioridade e tipo.                                                                                                                               |      16      |    3   |          R22         |    ❌   |
-|  23  |    Baixa   | Como Admnistrador, poder visualizar os relatórios gerados.                                                                                                                                                     |      16      |    3   |          R23         |    ❌   |
 
-### 4. Gerenciamento de IA
+### 3. Gerenciamento de IA
 
 | Rank | Prioridade | User Story                                                                                                                                                                                                     | Story Points | Sprint | Requisito do Cliente | Status |
 | :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
-|  24  |    Baixa   | A IA deve classificar automaticamente os chamados em níveis de prioridade (alta, média, baixa) com base no conteúdo e na urgência relatada.                                                                    |      16      |    3   |          R24         |    ❌   |
-|  25  |    Baixa   | A IA vai identificar o chamado e agrupar na sua respectiva categoria.                                                                                                                                          |      16      |    3   |          R25         |    ❌   |
-|  26  |    Baixa   | IA recebe o chamado e analisa as palavras chaves.                                                                                                                                                              |      16      |    3   |          R26         |    ❌   |
-|  27  |    Baixa   | A IA também deve encaminhar o chamado para o setor responsável com base na análise feita.                                                                                                                      |      16      |    3   |          R27         |    ❌   |
-|  28  |    Baixa   | IA concede solução para setor responsável de TI de acordo com o sugerido pelas palavras chaves.                                                                                                                |      16      |    3   |          R28         |    ❌   |
+|  24  |    Baixa   | A IA deve classificar automaticamente os chamados em níveis de prioridade (alta, média, baixa) com base no conteúdo e na urgência relatada.                                                                    |          |       |          R24         |    ❌   |
+|  25  |    Baixa   | A IA vai identificar o chamado e agrupar na sua respectiva categoria.                                                                                                                                          |          |      |          R25         |    ❌   |
+|  26  |    Baixa   | IA recebe o chamado e analisa as palavras chaves.                                                                                                                                                              |            |      |          R26         |    ❌   |
+|  27  |    Baixa   | A IA também deve encaminhar o chamado para o setor responsável com base na análise feita.                                                                                                                      |            |      |          R27         |    ❌   |
+|  28  |    Baixa   | IA concede solução para setor responsável de TI de acordo com o sugerido pelas palavras chaves.                                                                                                                |          |      |          R28         |    ❌   |
+
+
+## 📅 Tabela de Sprints
+|    Período    | Link para Documentação | Link para Vídeo no YouTube |
+| ------------- | ---------------------- | -------------------------- |
+| xx/xx - xx/xx | [Sprint 1](#)          | [Vídeo 1](#)               |
+| xx/xx - yy/yy | [Sprint 2](#)          | [Vídeo 2](#)               |
+| xx/xx - yy/yy | [Sprint 3](#)          | [Vídeo 3](#)               |
+
 
 
 <pre>1.a) Criar chamado:
@@ -134,12 +135,10 @@ IA concede solução para setor responsável de TI de acordo com o sugerido pela
 * Astah UML
 
 ### 2. Banco de Dados Relacionais
-* Br Modelo (DER e MER)
+
 * SQL Server
 
-### 3. Documentação
-* Word
-* Excel
+
 
 ## Solução Proposta
 * Priorização e Categorização de chamados por IA
