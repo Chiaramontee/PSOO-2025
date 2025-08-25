@@ -20,7 +20,7 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 ## 📁 Backlog do Produto
 | Link para o Backlog do produto |
 |--------------------------------|
-|[Backlog](https://github.com/Chiaramontee/PSOO-2025/blob/main/Backlog.md)
+|👉[Backlog](https://github.com/Chiaramontee/PSOO-2025/blob/main/Backlog.md)
 
 
 
