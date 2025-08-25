@@ -17,6 +17,11 @@ Todo o processo de tratamento dos chamados será documentado em um repositório 
 
 A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabalho da equipe de TI e elevar a eficácia na resolução de chamados dentro da organização.
 
+## Backlog do Produto
+| Link para o Backlog do produto |
+|--------------------------------|
+|[Backlog]()
+
 
 
 ## 📅 Tabela de Sprints
