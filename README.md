@@ -36,7 +36,7 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 
 </pre>
 
-## Solução Proposta
+## 📁Solução Proposta
 | Link para as Soluções |
 |----------------------|
 |👉[Proposta](https://github.com/Chiaramontee/PSOO-2025/blob/main/Soluções_Propostas.md)
