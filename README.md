@@ -37,10 +37,11 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 </pre>
 
 ## Solução Proposta
-* Priorização e Categorização de chamados por IA
-* Capacidade de IA propor soluções dos chamados para Equipe de TI
-* Geração de relatórios mensais, semanais e anuais dos chamados
-* Criação de Usuario pelo Admin
+| Link para as Soluções |
+|----------------------|
+|👉[Proposta](https://github.com/Chiaramontee/PSOO-2025/blob/main/Backlog.md)
+
+
 
 
 ## 🖥️ Tecnologias Utilizadas
