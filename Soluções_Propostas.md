@@ -4,4 +4,4 @@
 * Geração de relatórios mensais, semanais e anuais dos chamados
 * Criação de Usuario pelo Admin
 
-Diagramas
+Diagramas https://github.com/Chiaramontee/PSOO-2025/blob/main/Chamados_Diagramas.asta
