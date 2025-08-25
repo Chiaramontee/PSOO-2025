@@ -139,6 +139,6 @@ IA concede solução para setor responsável de TI de acordo com o sugerido pela
 * ##  Equipe
 | Nome                          | Papel         | GitHub                                    | LinkedIn                                                      |
 | ----------------------------- | ------------- |------------------------------------------ | ------------------------------------------------------------- |
-| Gabriel Chiaramonte Gonçalves     | Desenvolvedor |[GitHub](https://github.com/Chiaramontee) | [LinkedIn]
+| Gabriel Chiaramonte Gonçalves     | Desenvolvedor |[GitHub](https://github.com/Chiaramontee) | [LinkedIn](https://www.linkedin.com/in/gabriel-chiaramonte-gonçalves-918141373)
 
 
