@@ -6,5 +6,5 @@
 ---
 🎯 Diagramas
 
- [Caso de uso ](https://github.com/Chiaramontee/PSOO-2025/blob/main/Chamados_Diagramas.asta)
+ 👉  [Caso de uso ](https://github.com/Chiaramontee/PSOO-2025/blob/main/Chamados_Diagramas.asta)
 
