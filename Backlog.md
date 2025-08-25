@@ -10,8 +10,7 @@
 |   4  |    Alta    | Antes de enviar o chamado, o sistema realiza uma primeira checagem para garantir que todos os campos obrigatórios estejam preenchidos.                                                                         |           |       |          R04         |    ❌   |
 |   5  |    Alta    | Se o sistema identificar um campo em branco, o chamado não é enviado e o funcionário é informado para preencher os dados.                                                                                      |           |      |          R05         |    ❌   |
 |   6  |    Alta    | Caso a dupla checagem seja concluída com sucesso, o funcionário envia o chamado para a equipe de suporte.                                                                                                      |            |      |          R06         |    ❌   |
-|   7  |    Alta    | Sistema permite anexar mais arquivos em um chamado já existente.                                                                                                                                               |             |       |          R07         |    ❌   |
-|   8  |    Alta    | O sistema deve permitir que o usuário visualize os chamados criados, de acordo com o seu nível de acesso.                                                                                                      |             |      |          R08         |    ❌   |
+|   7 |    Alta    | O sistema deve permitir que o usuário visualize os chamados criados, de acordo com o seu nível de acesso.                                                                                                      |             |      |          R07       |    ❌   |
 
 
 ### 2. Gerenciamento de Usuário
