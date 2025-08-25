@@ -8,7 +8,7 @@ Esse trabalho é referente ao Projeto Integrado Multidisciplinar do curso de An�
       <img src="img/203549358.jpg" alt="logo da Fatal System" width="400">
       <h2 align="center"> Fatal System</h2>
 
-## Desafio <a id="desafio"></a>
+##  🎯 Desafio <a id="desafio"></a>
 O projeto tem como foco o desenvolvimento de um sistema para gerenciamento de chamados, com o apoio de uma Inteligência Artificial (IA) na triagem inicial.
 
 Esse sistema deverá possibilitar que os chamados registrados pelos usuários sejam automaticamente avaliados pela IA, que sugerirá soluções inteligentes à equipe de suporte técnico. A equipe, por sua vez, será responsável por revisar essas sugestões, podendo aprová-las, adaptá-las conforme necessário ou recusá-las.
@@ -17,7 +17,7 @@ Todo o processo de tratamento dos chamados será documentado em um repositório 
 
 A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabalho da equipe de TI e elevar a eficácia na resolução de chamados dentro da organização.
 
-## Backlog do Produto
+## 📁 Backlog do Produto
 | Link para o Backlog do produto |
 |--------------------------------|
 |[Backlog](https://github.com/Chiaramontee/PSOO-2025/blob/main/Backlog.md)
@@ -43,7 +43,7 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 * Criação de Usuario pelo Admin
 
 
-## Tecnologias Utilizadas
+## 🖥️ Tecnologias Utilizadas
 * <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 * <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah-00B4D8?style=for-the-badge&logo=astah&logoColor=white"/></a>
 * <a href="https://www.microsoft.com/en-us/sql-server/"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
