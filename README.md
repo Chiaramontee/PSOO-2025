@@ -61,6 +61,6 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 * ##  Equipe
 | Nome                          | Papel         | GitHub                                    | LinkedIn                                                      |
 | ----------------------------- | ------------- |------------------------------------------ | ------------------------------------------------------------- |
-| Gabriel Chiaramonte Gonçalves     | Desenvolvedor |[GitHub](https://github.com/Chiaramontee) | [LinkedIn](https://www.linkedin.com/in/gabriel-chiaramonte-gonçalves-918141373)
-
-
+| Gabriel Chiaramonte Gonçalves | Desenvolvedor |[GitHub](https://github.com/Chiaramontee) | [LinkedIn](https://www.linkedin.com/in/gabriel-chiaramonte-gonçalves-918141373)
+| Matheus Silva Pereira         | Desenvolvedor
+| Juliana Alves Cursino         | Desenvolvedora|
