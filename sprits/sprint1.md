@@ -1,4 +1,4 @@
-# Sprint1 (18/08 - 25/08)
+# Sprint1 
 
 Foi feito o reconhecimento do modelo de negocios  e realizado o levantamento inicial de requisitos pra
 inicio do projeto junto com a equipe de desenvolvimento.
