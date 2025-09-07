@@ -25,11 +25,11 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 
 
 ## 📅 Tabela de Sprints
-|    Período    | Link para Documentação | Link para Vídeo no YouTube |
-| ------------- | ---------------------- | -------------------------- |
-| xx/xx - xx/xx | [Sprint 1](#)          | [Vídeo 1](#)               |
-| xx/xx - yy/yy | [Sprint 2](#)          | [Vídeo 2](#)               |
-| xx/xx - yy/yy | [Sprint 3](#)          | [Vídeo 3](#)               |
+|    Período    | Link para Documentação |  
+| ------------- | ---------------------- | 
+| 18/08 - 25/08 | [Sprint 1](#)          | 
+| 25/08 - 01/09 | [Sprint 2](#)          | 
+| 01/09 - 08/09 | [Sprint 3](#)          | 
 
 
 
