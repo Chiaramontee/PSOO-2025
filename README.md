@@ -29,7 +29,7 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 | ------------- | ---------------------- | 
 | 18/08 - 25/08 | [Sprint 1](https://github.com/Chiaramontee/PSOO-2025/blob/main/sprits/sprint1.md)          | 
 | 25/08 - 01/09 | [Sprint 2](https://github.com/Chiaramontee/PSOO-2025/blob/main/sprits/Sprint2.md)          | 
-| 01/09 - 08/09 | [Sprint 3](https://github.com/Chiaramontee/PSOO-2025/blob/main/sprits/sprint3.md)          | 
+| 01/09 - 08/09 | [Sprint 3](https://github.com/Chiaramontee/PSOO-2025/blob/main/sprits/Sprint3.md)          | 
 
 
 
