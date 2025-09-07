@@ -17,7 +17,7 @@ Todo o processo de tratamento dos chamados será documentado em um repositório 
 
 A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabalho da equipe de TI e elevar a eficácia na resolução de chamados dentro da organização.
 
-## 📁 Backlog do Produto
+## 📋 Backlog do Produto
 | Link para o Backlog do produto |
 |--------------------------------|
 |👉[Backlog](https://github.com/Chiaramontee/PSOO-2025/blob/main/Backlog.md)
@@ -58,7 +58,7 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 <br>
 
 
-* ##  Equipe
+ ## 👥 Equipe
 | Nome                          | Papel         | GitHub                                    | LinkedIn                                                      |
 | ----------------------------- | ------------- |------------------------------------------ | ------------------------------------------------------------- |
 | Gabriel Chiaramonte Gonçalves | Desenvolvedor |[GitHub](https://github.com/Chiaramontee) | [LinkedIn](https://www.linkedin.com/in/gabriel-chiaramonte-gonçalves-918141373)
