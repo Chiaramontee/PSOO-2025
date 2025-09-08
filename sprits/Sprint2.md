@@ -1,6 +1,6 @@
-## 📌 Sprint 3 – Modelagem de Casos de Uso
+## 📌 Sprint 2 – Modelagem de Casos de Uso
 
-Período: 02/09 a 08/09
+Período: 26/08 a 01/09
 
 ## 🎯 Objetivo do Sprint:
 
