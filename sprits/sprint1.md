@@ -7,7 +7,7 @@ inicio do projeto junto com a equipe de desenvolvimento.
 
 Sistema de suporte tecnico inteligente que utilize IA para triagem inicial, categorização automatica de chamados e sugestao de soluções.
 
-## Backlog 
+
 
 * Criação de requisito de Gerenciamento de Chamados
 * Criação de requisito de Gerenciamento de Usuarios
