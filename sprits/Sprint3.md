@@ -1,6 +1,6 @@
-## 📌 Sprint 4 – Construção do Diagrama de Objetos
+## 📌 Sprint 3 – Construção do Diagrama de Objetos
 
-Período: 09/09 a 14/09
+Período: 02/09 a 08/09
 
 ## 🎯 Objetivo do Sprint:
 
