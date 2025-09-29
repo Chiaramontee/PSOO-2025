@@ -5,7 +5,7 @@ Gerenciamentos de Chamados
 Esse trabalho é referente ao Projeto Integrado Multidisciplinar do curso de Análise e Desenvolvimento de Sistemas da  UNIP  São José dos Campos.
 
 <p align="center">
-      <img src="img/203549358.jpg" alt="logo da Fatal System" width="400">
+      <img src="img/Logo.png" alt="logo da Fatal System" width="400">
       <h2 align="center"> Fatal System</h2>
 
 ##  🎯 Desafio <a id="desafio"></a>
