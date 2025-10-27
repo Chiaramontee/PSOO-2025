@@ -41,7 +41,7 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 |----------------------|
 |👉[Estrutura](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/Estrutura%20do%20projeto.md)
 
-## 📁Como executar usar e testar o projeto  
+## 📖 Como executar usar e testar o projeto  
 | Link para Testar e usar |
 |----------------------|
 |👉[Executar](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/usar.md)
@@ -58,7 +58,7 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 |👉[Equipe](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/Equipe.md)
 
 
-## 👥 DoR - DoD
+##  🖋️ DoR - DoD
 | Link para O DoR e DoD|
 |----------------------|
 |👉[DoR - Dod](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/dor%20-%20dod.md)
