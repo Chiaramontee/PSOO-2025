@@ -1,4 +1,4 @@
-## 📅 Tabela de Sprints
+## 📅 Tabela descritiva das sprints
 |    Período    | Link para Documentação |  
 | ------------- | ---------------------- | 
 | 18/08 - 25/08 | [Sprint 1](https://github.com/Chiaramontee/PSOO-2025/blob/main/sprits/sprint1.md)          | 
