@@ -20,12 +20,12 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 ## 📋 Backlog do Produto
 | Link para o Backlog do produto |
 |--------------------------------|
-|👉[Backlog](https://github.com/Chiaramontee/PSOO-2025/blob/main/Backlog.md)
+|👉[Backlog](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/Backlog.md)
 
 ## 📋 Tabela descritiva das sprints
 | Link para as sprints |
 |--------------------------------|
-|👉[Sprints](https://github.com/Chiaramontee/PSOO-2025/blob/main/Sprints.md)
+|👉[Sprints](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/Sprints.md)
 
 
 
@@ -34,29 +34,29 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 ## 🖥️ Tecnologias usadas
 | Link para as Tecnologias |
 |----------------------|
-|👉[Tecnologias](https://github.com/Chiaramontee/PSOO-2025/blob/main/Tecnologias.md)
+|👉[Tecnologias](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/Tecnologias.md)
 
 ## 📁Estrutura do projeto 
 | Link para as estrutura |
 |----------------------|
-|👉[Estrutura](https://github.com/Chiaramontee/PSOO-2025/blob/main/Soluções_Propostas.md)
+|👉[Estrutura](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/Soluções_Propostas.md)
 
 ##  📁Pasta De Documentação
 | Link para a Documentação|
 |----------------------|
-|👉[Documentação](https://github.com/Chiaramontee/PSOO-2025/blob/main/Equipe.md)
+|👉[Documentação](https://github.com/Chiaramontee/PSOO-2025/tree/main/Docs)
 
 
 ## 👥 Equipe
 | Link para a Equipe|
 |----------------------|
-|👉[Equipe](https://github.com/Chiaramontee/PSOO-2025/blob/main/Equipe.md)
+|👉[Equipe](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/Equipe.md)
 
 
 ## 👥 DoR - DoD
 | Link para O DoR e DoD|
 |----------------------|
-|👉[DoR - Dod](https://github.com/Chiaramontee/PSOO-2025/blob/main/dor%20-%20dod.md)
+|👉[DoR - Dod](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/dor%20-%20dod.md)
 
 
 
