@@ -25,7 +25,7 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 ## 📋 Tabela descritiva das sprints
 | Link para as sprints |
 |--------------------------------|
-|👉[Sprints](https://github.com/Chiaramontee/PSOO-2025/blob/main/Backlog.md)
+|👉[Sprints](https://github.com/Chiaramontee/PSOO-2025/blob/main/Sprints.md)
 
 
 
