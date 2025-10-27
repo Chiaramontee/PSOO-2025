@@ -39,7 +39,7 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 ## 📁Estrutura do projeto 
 | Link para as estrutura |
 |----------------------|
-|👉[Estrutura](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/Soluções_Propostas.md)
+|👉[Estrutura](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/Estrutura%20do%20projeto.md)
 
 ##  📁Pasta De Documentação
 | Link para a Documentação|
