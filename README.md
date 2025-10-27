@@ -63,6 +63,11 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 |----------------------|
 |👉[DoR - Dod](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/dor%20-%20dod.md)
 
+##  📖 Manual do usuario
+| Link para o Manual |
+|----------------------|
+|👉[Manual](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/dor%20-%20dod.md)
+
 
 
 
