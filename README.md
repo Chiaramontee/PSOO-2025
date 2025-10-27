@@ -71,6 +71,25 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 * <a href="https://www.microsoft.com/en-us/sql-server/"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
 * <a href="https://www.brmodeloweb.com/lang/pt-br/index.html"><img src="https://img.shields.io/badge/Br%20Modelo-0078D7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml;base64,&logoColor=white"/></a>
 
+## 📖 Manual de instalação
+
+
+
+- Instale o Astah Viewer ( [Download](https://astah.net/products/astah-viewer) ).
+
+- Navegue até a localização do arquivo do diagrama  encontrado na solução 
+
+- Clique no arquivo e, de seguida, clique no botão **"Raw"** ou **"Download"** para guardar o ficheiro no seu computador.
+
+- Abra o **Astah Viewer**.
+
+- No menu, selecione **"File" (Ficheiro)** e, de seguida, **"Open" (Abrir)**.
+
+- Selecione o ficheiro **`.asta`** que descarregou do GitHub.
+
+
+
+
 
 
 
