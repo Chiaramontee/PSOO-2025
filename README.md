@@ -41,6 +41,11 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 |----------------------|
 |👉[Estrutura](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/Estrutura%20do%20projeto.md)
 
+## 📁Como executar usar e testar o projeto  
+| Link para Testar e usar |
+|----------------------|
+|👉[Executar](https://github.com/Chiaramontee/PSOO-2025/blob/main/Docs/usar.md)
+
 ##  📁Pasta De Documentação
 | Link para a Documentação|
 |----------------------|
@@ -61,23 +66,6 @@ A proposta visa principalmente agilizar o atendimento, aliviar a carga de trabal
 
 
 
-
-
-## 📖 Manual de instalação
-
-
-
-- Instale o Astah Viewer ( [Download](https://astah.net/products/astah-viewer) ).
-
-- Navegue até a localização do arquivo do diagrama  encontrado na solução 
-
-- Clique no arquivo e, de seguida, clique no botão **"Raw"** ou **"Download"** para guardar o ficheiro no seu computador.
-
-- Abra o **Astah Viewer**.
-
-- No menu, selecione **"File" (Ficheiro)** e, de seguida, **"Open" (Abrir)**.
-
-- Selecione o ficheiro **`.asta`** que descarregou do GitHub.
 
 
 
