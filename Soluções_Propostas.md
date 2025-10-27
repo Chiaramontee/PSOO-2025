@@ -6,5 +6,5 @@
 ---
 🎯 Diagramas
 
- 👉  [Diagramas](https://github.com/Chiaramontee/PSOO-2025/blob/main/Chamados_Diagramas.asta)
+ 👉  [Diagramas](https://github.com/Chiaramontee/PSOO-2025/blob/main/Chamados%20Diagrama.asta)
 
